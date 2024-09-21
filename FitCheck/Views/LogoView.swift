@@ -15,7 +15,7 @@ class LogoView: UIView {
         let im = UIImage(named: "Logo")
         
         view.image = im
-        view.contentMode = .scaleAspectFill
+        view.contentMode = .scaleAspectFit
         return view
     }()
     

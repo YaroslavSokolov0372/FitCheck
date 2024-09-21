@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "LogoFinish.jpg",
+      "filename" : "StarPlusWhite.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "LogoFinish 1.jpg",
+      "filename" : "StarPlusWhite 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "LogoFinish 2.jpg",
+      "filename" : "StarPlusWhite 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
